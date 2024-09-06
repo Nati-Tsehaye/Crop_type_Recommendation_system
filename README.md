@@ -2,9 +2,9 @@
 
 The Crop Recommendation System is a  tool designed to provide tailored crop suggestions based on a range of environmental and soil parameters. By analyzing key factors such as Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, pH levels, and rainfall, the system offers precise recommendations to help optimize crop selection and improve agricultural outcomes.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+Python(tensorflow, pandas, numpy), Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
