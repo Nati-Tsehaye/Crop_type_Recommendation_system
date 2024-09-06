@@ -1,6 +1,6 @@
 # crop_type_recommendation_system
 
-A new Flutter project.
+The Crop Recommendation System is a  tool designed to provide tailored crop suggestions based on a range of environmental and soil parameters. By analyzing key factors such as Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, pH levels, and rainfall, the system offers precise recommendations to help optimize crop selection and improve agricultural outcomes.
 
 ## Getting Started
 
