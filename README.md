@@ -7,5 +7,5 @@ The Crop Recommendation System is a  tool designed to provide tailored crop sugg
 Python(tensorflow, pandas, numpy), Flutter
 
 ## Video Demo
-https://github.com/user-attachments/assets/Screen Recording 2024-09-06 172331.mp4
+[https://github.com/user-attachments/assets/Screen Recording 2024-09-06 172331.mp4](https://github.com/user-attachments/assets/c683acf7-76f2-4b33-8c24-a350fffb4cf9)
 
